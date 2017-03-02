@@ -23,7 +23,6 @@ class ClosuresAreGreatTests: XCTestCase {
     
     
     func testSortShips() {
-        
         var toyBin = ToyBin()
         let titanic = Ship(name: "Titanic", age: 104)
         let johann = Ship(name: "Johann", age: 100)
